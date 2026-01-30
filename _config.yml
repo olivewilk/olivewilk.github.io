@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_8587.JPG"
-  name             : "Your Sidebar Name"
+  name             : "Olivia Wilkinson"
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD Candidate"
   location         : "Madison, WI"
@@ -84,8 +84,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+    #title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
