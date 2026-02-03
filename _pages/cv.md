@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 You can download my CV here:  
-[Download CV (PDF)](files/CV_Jan26.pdf)
+[Download CV (PDF)](olivewilk.github.io/files/CV_Jan26.pdf)
