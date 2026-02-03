@@ -4,14 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 ## Working Papers
-Wilkinson_Paper.pdf
+{% assign working = site.publications | where: "publication", "Working Paper" %}
+{% for post in working %}
+  {% include archive-single.html %}
+{% endfor %}
 
----
-title: "Credit Unions and Low-Income Areas: Implications for Credit Access and Consumer Outcomes"
-authors: "Olivia Wilkinson"
-year: 2025
-publication: "Working Paper"
-paperurl: "Wilkinson_Paper.pdf"
----
+## Published & Forthcoming
+{% assign published = site.publications | where_exp: "post", "post.publication != 'Working Paper'" %}
+{% for post in published %}
+  {% include archive-single.html %}
+{% endfor %}
+
