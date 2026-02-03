@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 You can download my CV here:  
-[Download CV (PDF)](olivewilk.github.io/files/CV_Jan26.pdf)
+[Download CV (PDF)](CV_Jan26.pdf)
