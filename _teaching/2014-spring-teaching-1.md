@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UW-Madison, Economics"
-date: 2025 - 2026
+date: 2025
 location: "Madison, Wisconsin"
 ---
 
