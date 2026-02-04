@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<meta name="google-site-verification" content="CWokitQM1X_Pbn0dqMe8tpRX-GqLIG5tt0Vh1k1uoVY" />
 
 I am a PhD candidate in Economics at the University of Wisconsin–Madison.
 
