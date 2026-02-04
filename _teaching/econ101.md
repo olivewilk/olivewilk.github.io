@@ -2,7 +2,7 @@
 title: "Economics 101"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/econ101
 venue: "UW-Madison, Economics"
 date: 2024-08-01
 location: "Madison, Wisconsin"
