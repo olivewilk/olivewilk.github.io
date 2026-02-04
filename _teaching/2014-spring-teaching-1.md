@@ -8,14 +8,13 @@ date: 2025-08-01
 location: "Madison, Wisconsin"
 ---
 
-Fall 2024: General TA for Fran Flanagan 
+Positions
 ======
+
+Fall 2024: General TA for Fran Flanagan 
 
 Spring 2025: Head TA for David Johnson
-======
 
 Fall 2025: Head TA for Fran Flanagan
-======
 
 Spring 2026: Head TA for Gregory Pac
-======
