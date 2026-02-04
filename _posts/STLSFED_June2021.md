@@ -1,0 +1,5 @@
+---
+title: 'Foreclosure Rate Drops during COVID-19 despite Dip in On-Time Mortgage Payments'
+date: 2021-06-04
+externalurl: https://www.stlouisfed.org/publications/regional-economist/second-quarter-2021/foreclosure-rate-drops-covid19-dip-on-time-mortgage-payments
+---
