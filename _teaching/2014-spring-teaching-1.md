@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UW-Madison, Economics"
-date: 2025-08-01
+date: 2024-08-01
 location: "Madison, Wisconsin"
 ---
 
-Positions
+Fall 2024 - Spring 2026
 ======
 
 Fall 2024: General TA for Fran Flanagan 
