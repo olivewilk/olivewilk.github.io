@@ -1,5 +1,3 @@
-
-
 ---
 title: "The Economic Impact of COVID-19 around the World"
 category: manuscripts
